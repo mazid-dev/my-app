@@ -64,7 +64,7 @@ def home():
             <ol>
                 <li>Dockerize করুন</li>
                 <li>EC2 তে Deploy করুন</li>
-                <li>CI/CD Pipeline Setup করুন</li>
+                <li>CI/CD Pipeline Setup করুন/CI/CD Updated</li>
             </ol>
         </div>
     </body>
